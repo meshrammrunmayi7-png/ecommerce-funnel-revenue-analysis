@@ -36,7 +36,7 @@ The full SQL workflow used for the analysis is available here:
 
 ## Dashboard
 
-![E-commerce Funnel Dashboard](funnel-analysis-dasboard.png)
+![E-commerce Funnel Dashboard](funnel-analysis-dashboard.png)
 
 ## Dataset
 
